@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2019-09-06
+ *FULL DANDELION ORG CODE FOR REMIX DEPLOYMENTS
 */
 
 // File: @aragon/apps-shared-minime/contracts/ITokenController.sol
